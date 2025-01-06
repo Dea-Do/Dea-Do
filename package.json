@@ -1,0 +1,14 @@
+{
+  "name": "dea-do",
+  "version": "1.0.0",
+  "description": "<!--\r **Dea-Do/Dea-Do** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.",
+  "main": "index.js",
+  "scripts": {
+    "client": "cd client && npm start",
+    "server": "cd server && npm run dev",
+    "start": "npm run client & npm run server"
+  },
+  "keywords": [],
+  "author": "Emre",
+  "license": "MIT"
+}
